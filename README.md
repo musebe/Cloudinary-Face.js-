@@ -1,4 +1,4 @@
-# Facial Recognition NodeJS
+# Facial Recognition Using Node.js and Cloudinary
 
 ### Prerequisites
 
