@@ -43,6 +43,13 @@ a.navhead{
 }
 
 #img-upload{
-    width: 100%;
+    /* width: 100%; */
 }
 /*  Upload css ends*/
+
+/* Images css */
+#imgCont div{
+  width:160px;
+  height: 160px;
+  overflow:hidden;
+}
